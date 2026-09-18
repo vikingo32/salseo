@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Webos Fritos",
+    "homeUrl": "https://webosfritos.es/",
+    "searchUrl": "https://webosfritos.es/?s="
+  },
+  {
+    "name": "Javi Recetas",
+    "homeUrl": "https://www.javirecetas.com/",
+    "searchUrl": "https://www.javirecetas.com/?s="
+  },
+  {
+    "name": "Mercado Calabajio",
+    "homeUrl": "https://www.mercadocalabajio.com/",
+    "searchUrl": "https://www.mercadocalabajio.com/search?q="
+  },
+  {
+    "name": "El Cocinero Casero",
+    "homeUrl": "https://elcocinerocasero.com/",
+    "searchUrl": "https://elcocinerocasero.com/buscar?q="
+  },
+  {
+    "name": "Directo al Paladar",
+    "homeUrl": "https://www.directoalpaladar.com/",
+    "searchUrl": "https://www.directoalpaladar.com/search?q="
+  },
+  {
+    "name": "Recetas de Rechupete",
+    "homeUrl": "https://www.recetasderechupete.com/",
+    "searchUrl": "https://www.recetasderechupete.com/?s="
+  },
+  {
+    "name": "Cocina Familiar",
+    "homeUrl": "https://cocina-familiar.com/",
+    "searchUrl": "https://cocina-familiar.com/?s="
+  },
+  {
+    "name": "El Comidista",
+    "homeUrl": "https://elcomidista.elpais.com/",
+    "searchUrl": "https://elcomidista.elpais.com/buscador/?q="
+  },
+  {
+    "name": "ThermoRecetas",
+    "homeUrl": "https://www.thermorecetas.com/",
+    "searchUrl": "https://www.thermorecetas.com/?s="
+  },
+  {
+    "name": "Velocidad Cuchara",
+    "homeUrl": "https://www.velocidadcuchara.com/",
+    "searchUrl": "https://www.velocidadcuchara.com/?s="
+  }
+]
